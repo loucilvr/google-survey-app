@@ -35,12 +35,13 @@ Now, run the node application:
 ```
 
 
-Finally, to view the saved entries on the Google spreadsheet, you must have proper authorization to view it. 
+Finally, to view the saved entries on the Google spreadsheet, navigate to the spreadsheet on your browser.
+(Only authorized users can view this spreadsheet unless configured as a public spreadsheet) 
 <br/>
 <br/>
 
-If I have not shared this with you personally and you would like to run the app  and see it working for your own project,
-sign up for an API credentials through the central [Google Developers Site](https://console.developers.google.com/start/api?id=sheets.googleapis.com).
+If I have not shared this with you personally and you would like to run the app and see the data saved to your own Google Sheet,
+sign up for an API credentials through the central [Google Developers Site](https://console.developers.google.com/start/api?id=sheets.googleapis.com) and replace SPREADSHEET_ID as well as the credentials.json file.
 
 
 
