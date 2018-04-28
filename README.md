@@ -43,7 +43,8 @@ Finally, to view the saved entries on the Google spreadsheet, navigate to the sp
 If I have not shared this with you personally and you would like to run the app and see the data saved to your own Google Sheet,
 sign up for an API credentials through the central [Google Developers Site](https://console.developers.google.com/start/api?id=sheets.googleapis.com) and replace SPREADSHEET_ID as well as the credentials.json file.
 
-
+<br/>
+<br/>
 
 **For more information on building a Node app with Google's Sheets API, follow this link:**
 
