@@ -2,9 +2,10 @@
 
 This simple app accepts user input and sends survey data to an authorized Google Spreadsheet.
 
-This was built using React, Node and Express.
+This app was built using React, Node and Express, and was extended from a [Node.js/Express Tutorial](https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b).
 
-
+<br/>
+<br/>
 
 Installation Requirements:
 - Node
