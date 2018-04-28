@@ -23,14 +23,14 @@ Installation Requirements:
  
 This installs the dependencies needed to run the application
 ```
-       npm install
+   npm install
 ```
+<br/></br>
 
-
-Now, run the node application
+Now, run the node application:
 
 ```
-       node server.js
+   node server.js
 ```
 
 
