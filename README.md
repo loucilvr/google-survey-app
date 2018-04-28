@@ -14,11 +14,10 @@ Installation Requirements:
 - Create-React-App
 
 
-#### Try it Out!
+### Try it Out!
 
   
 **Clone this project locally, open your terminal and run the following commands:**
-<br/>
 <br/>
 <br/>
  
@@ -26,7 +25,7 @@ This installs the dependencies needed to run the application
 ```
    npm install
 ```
-<br/></br>
+<br/>
 
 Now, run the node application:
 
